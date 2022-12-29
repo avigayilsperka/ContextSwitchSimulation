@@ -1,9 +1,8 @@
-# ContextSwitchSimulation
 
 # General Info
 This program is a college assignment which is meant to simulate the context switches of a processor.
 
-#Project Specifics
+##Project Specifics
 - Iterates 3,000 times to complete all processes.
 - Processes can be ready, suspended, or finished.
 - Ready processes follow FIFO algorithm. 
