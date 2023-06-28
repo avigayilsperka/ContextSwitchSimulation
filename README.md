@@ -9,6 +9,6 @@ This program is a college assignment which is meant to simulate the context swit
 - Blocked processes unblock with a 30% probability after each iteration.
 - Processor idles when remaining processes are all blocked. 
 - Context switch occurs when the quantum of 5 is completed.
-- With each context switch, the Process Control Block is upadted with the four register values and current instruction of the previous process.
+- With each context switch, the Process Control Block is updated with the four register values and current instruction of the previous process.
 - Process Control Block restores next ready process on the processor using saved registers and current instruction.
 
